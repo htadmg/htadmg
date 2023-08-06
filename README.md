@@ -2,7 +2,7 @@
 
 <h2>Hello World </h2>
 
-<p>Eu Sou Agata Domingues, estudante de linguagem de programçao e marcação, Web designer.</p>
+<p>Sou estudando de Alanise e Desenvolvimento de Sistema com linguagem de programação em c#. </p>
 
 </br>
 
