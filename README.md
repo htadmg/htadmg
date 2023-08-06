@@ -2,7 +2,7 @@
 
 <h2>Hello World </h2>
 
-<p>Sou estudando de Analise e Desenvolvimento de Sistema com linguagem de programação em c#. </p>
+<p>Sou estudante de Analise e Desenvolvimento de Sistema com linguagem de programação em c#. </p>
 
 </br>
 
