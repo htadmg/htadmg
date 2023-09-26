@@ -2,7 +2,7 @@
 
 <h2>Hello World </h2>
 
-<p>Sou estudante de Analise e Desenvolvimento de Sistema com linguagem de programação em c#. </p>
+<p>Estudante de analise e Desenvolvimento de Sistemas pela Uninter,  Inglês iniciante, conhecimentos em HTML | CSS | JS para Desenvolvimento Web, e como Linguagem Backend em CSharp em Orientação a Objeto., Atualmente fazendo estagio em Desenvolvimento de Software na empresa Techmilen.</p>
 
 </br>
 
