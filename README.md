@@ -2,7 +2,9 @@
 
 <h2>Hello World </h2>
 
-<p>Estudante de analise e Desenvolvimento de Sistemas pela Uninter,  Inglês iniciante, conhecimentos em HTML | CSS | JS para Desenvolvimento Web, e como Linguagem Backend em CSharp em Orientação a Objeto., Atualmente fazendo estagio em Desenvolvimento de Software na empresa Techmilen.</p>
+<p>Tenho uma forte base em desenvolvimento web e programação orientada a objetos, com habilidades em HTML, CSS e JavaScript que me permitem criar interfaces de usuário dinâmicas e responsivas, utilizando bibliotecas como Bootstrap para aprimorar a experiência do usuário.
+
+Minha experiência no desenvolvimento backend com C# e Python me capacita a construir aplicações robustas e escaláveis. Utilizo tecnologias como .NET e Flask para criar soluções eficientes e de alta performance, além de aplicar Entity Framework para facilitar o acesso e gerenciamento de dados. Minhas habilidades em SQL garantem a integridade e eficiência no tratamento de bancos de dados..</p>
 
 </br>
 
