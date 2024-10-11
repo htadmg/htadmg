@@ -2,7 +2,7 @@
 
 <p>Desenvolvedora Full Stack com expertise em HTML, CSS, JavaScript, C# e Python para criar soluções escaláveis e eficientes. Experiente em .NET e Flask, com forte conhecimento em SQL e Entity Framework. Atualmente, integro soluções com a API do Mercado Livre, desenvolvendo sistemas de autenticação e gerenciando preços e pedidos. Anteriormente, criei uma aplicação para salões de beleza com C# e .NET, e também desempenhei funções administrativas com foco em finanças e treinamento.</p>
 
-</br>
+</br>  
 
 <h3> Minhas Redes de contato </h3> 
 
